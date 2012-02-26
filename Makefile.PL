@@ -10,7 +10,7 @@ WriteMakefile
           'VERSION_FROM' => 'lib/HTTP/Server/Simple/WebDAO.pm',
           'PREREQ_PM' => {
                            'HTTP::Server::Simple' => '0.44',
-                           'WebDAO' => '2'
+                           'WebDAO' => '2.1'
                          }
         )
 ;
