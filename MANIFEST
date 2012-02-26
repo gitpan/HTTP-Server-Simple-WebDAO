@@ -6,4 +6,3 @@ MANIFEST
 README
 t/t00.t
 META.yml
-META.json
